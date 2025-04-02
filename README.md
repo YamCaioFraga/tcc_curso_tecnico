@@ -37,7 +37,7 @@ Aqui está um uma pequena parte do código usado no projeto:
 </head>
 <body>
     <header>
-        <h1></h1>
+        <h1>O futuro do Mercdo de trabalho</h1>
     </header>
     <main>
         <section id="cursos">

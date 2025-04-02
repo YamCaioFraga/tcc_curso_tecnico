@@ -15,39 +15,13 @@ Nosso objetivo é facilitar o acesso a **cursos gratuitos e pagos**, além de di
 ## 🛠️ Tecnologias Utilizadas  
 Este projeto foi construído utilizando:  
 
-- 🌐 **HTML5** → Estrutura do site  
-- 🎨 **CSS5** → Estilização e layout responsivo  
-- ⚡ **JavaScript** → Funcionalidades interativas  
+- 🌐 **HTML5** → Estrutura do site.
+- 🎨 **CSS5** → Estilização.  
+- ⚡ **JavaScript** → Funcionalidades interativas.  
 
 ---
 
-## 📌 Estrutura do Código  
 
-Aqui está um uma pequena parte do código usado no projeto:  
-
-### 📄 `html`  
-```html
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Oportunidades Tech</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>O futuro do Mercdo de trabalho</h1>
-    </header>
-    <main>
-        <section id="cursos">
-            <h2>Cursos Recomendados</h2>
-            <ul id="lista-cursos"></ul>
-        </section>
-    </main>
-    <script src="script.js"></script>
-</body>
-</html>
 
 
 
